@@ -72,5 +72,17 @@ namespace NetworkUtility.Ping
             };
             return pingOptions;
         }
+        public void printerr()
+        {
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+            Console.WriteLine("Why so serious?");
+        }
     }
 }
