@@ -23,7 +23,7 @@ namespace NetworkUtility.Tests.PingTests
             //Dependencies
             _dNS = A.Fake<IDNS>();
 
-            //SUT - System Under Stress
+            //SUT - System Under Test(ing)
             _pingService = new NetworkService(_dNS);
         }
 
